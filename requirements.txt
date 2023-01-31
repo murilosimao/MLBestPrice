@@ -1,0 +1,6 @@
+selenium
+prettytable
+fuzzywuzzy
+PyVirtualDisplay
+beautifulsoup4
+pandas
